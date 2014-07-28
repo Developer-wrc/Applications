@@ -2,3 +2,11 @@ Applications
 ============
 
 This is a test application
+
+This is my secound commit
+
+<<<<<<< HEAD
+This is my third commit
+=======
+I appreciate your effort
+>>>>>>> 14652631aefa2189117b731fb0a830b6d513c580
